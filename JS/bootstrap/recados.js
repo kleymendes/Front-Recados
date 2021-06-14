@@ -1,6 +1,3 @@
-axios.defaults.baseURL = 'http://localhost:1234';
-
-
 axios.defaults.baseURL = 'https://pagina-recados-kley-back.herokuapp.com/';
 
 axios.get('/recados')
